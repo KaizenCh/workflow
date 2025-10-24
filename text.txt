@@ -1,1 +1,2 @@
-hello
+À propos
+TimeFlow Pro est un logiciel desktop de gestion des feuilles de temps qui simplifie le suivi des heures travaillées dans votre entreprise. Les employés saisissent leurs heures par projet chaque semaine, les managers valident ou rejettent ces soumissions en un clic, et la direction génère automatiquement 13 types de rapports visuels (graphiques, tableaux, analyses) pour piloter l'activité. Le logiciel inclut également des outils de gestion des projets et utilisateurs, ainsi que des exports en Excel et PDF. Développé en Python avec PyQt, il fonctionne en local sur votre infrastructure pour garantir la sécurité de vos données.
